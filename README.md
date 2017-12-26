@@ -13,7 +13,7 @@ Vagrant version: 1.9.5
 
 * vagrant up
 * vagrant package --output base_centos7
-* vagrant box add ./base_centos7
+* vagrant box add ./base_centos7 --name base_centos7
 
 ### Contribution guidelines ###
 
